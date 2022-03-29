@@ -5,7 +5,7 @@ function Footer(){
    var currentYear = date.getFullYear();
    
    return(
-       <p className="footer"> Dipal Copyright &copy; {currentYear} </p>
+       <p className="footer"> Dipal Shrestha Copyright &copy; {currentYear} </p>
    )
 }
 
